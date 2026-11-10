@@ -1,7 +1,7 @@
 body {
-    font-family: 'Fredoka';
     background-color: #e30000;                  /* Warna Latar Belakang */
-    font-family: 'Fredoka', sans-serif;               /* Font yang Digunakan */
+    font-family: 'Fredoka', sans-serif;           /* Font yang Digunakan */
+    font-weight: 600;
     color: #000000;                             /* Warna Teks */
 }
 
@@ -19,7 +19,7 @@ body {
     width: 200px;                                 /* Lebar Gambar */
     height: 200px;                                /* Tinggi Gambar */
     border-radius: 50%;                           /* Membuat Gambar menjadi Bulat */
-    margin-bottom: 7px;                          /* Jarak Bawah Gambar */
+    margin-bottom: 7px;                           /* Jarak Bawah Gambar */
 }
 
 .kartu-profil h1 {
